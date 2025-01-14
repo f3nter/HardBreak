@@ -42,7 +42,7 @@ If you:
 Come be a part of our growing community of hardware hackers⚡
 
 {% hint style="success" %}
-HardBreak has been created by me, Jonas Rosenberger. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonas-rosenberger-3276b1164/) or Discord (f\_3nter). I'm happy to hear your feedback or help you on your current projects!
+Hey! I’m Jonas Rosenberger, the creator of HardBreak. I’d love to hear your feedback or help out with any projects you’re working on. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonas-rosenberger-3276b1164/) or Discord (f\_3nter)!
 {% endhint %}
 
 ## Overview
