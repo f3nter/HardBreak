@@ -19,9 +19,9 @@ layout:
     visible: true
 ---
 
-# Welcome to HardBreak
+# HardBreak - Hardware Hacking Wiki
 
-_**This page is a free and open-source wiki about hardware hacking!**_
+_**This page is a free and collaborative wiki about hardware hacking!**_
 
 <figure><img src=".gitbook/assets/image (16).png" alt="" width="155"><figcaption><p>HardBreak Wiki</p></figcaption></figure>
 
