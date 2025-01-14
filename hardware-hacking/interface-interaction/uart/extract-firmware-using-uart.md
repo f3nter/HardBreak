@@ -118,7 +118,7 @@ Ensure you verify the correct device paths to avoid overwriting important data. 
 ## Analyze firmware
 
 * Using `binwalk firmware.bin` we can try to analyze the firmware and extract sensitive information
-* check the "[Analyze Firmware](extract-firmware-using-uart.md#analyze-firmware)" chapter
+* check the "[Analyze Firmware](../../../hardware-hacking/analyze-firmware.md)" chapter
 
 ## Resources
 
