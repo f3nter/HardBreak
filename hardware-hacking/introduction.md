@@ -22,7 +22,7 @@ The primary goal of a hardware hacker is typically to gain full control of the d
 
 * Interactive Access
   * Obtaining an administrative shell that allows full control of the device.
-* [Firmware Extraction](./interface-interaction/uart/extract-firmware-using-uart.md)
+* [Firmware Extraction](../hardware-hacking/basics/firmware-extraction-methods.md)
   * Dumping the device's firmware, which contains all the code and secrets required for operation. This can reveal admin passwords, hardcoded credentials, or security flaws.
 * Firmware Modification
   * Reflashing a device with modified firmware to bypass restrictions or gain privileged access.
