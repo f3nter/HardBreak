@@ -59,8 +59,8 @@
     * [Extract Firmware using JTAG/SWD](hardware-hacking/interface-interaction/jtag-swd/extract-firmware-using-jtag-swd.md)
   * [VE.Direct](hardware-hacking/interface-interaction/ve.direct.md)
 * [Bypassing Security](hardware-hacking/bypassing-security/README.md)
-  * [Voltage Glitching](hardware-hacking/bypassing-security/voltage-glitiching/README.md)
-    * [Example: LPC1768](hardware-hacking/bypassing-security/voltage-glitiching/example-lpc1768.md)
+  * [Voltage Glitching](hardware-hacking/bypassing-security/voltage-glitching/README.md)
+    * [Example: LPC1768](hardware-hacking/bypassing-security/voltage-glitching/example-lpc1768.md)
   * [Electromagnetic Fault Injection](hardware-hacking/bypassing-security/electromagnetic-fault-injection/README.md)
 * [Analyze Firmware](hardware-hacking/analyze-firmware.md)
 
