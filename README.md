@@ -62,7 +62,7 @@ HardBreak has been created by me, Jonas Rosenberger. Feel free to reach out on [
       * How to [Identify](hardware-hacking/interface-interaction/uart/uart-from-start-to-finish.md) and use those protocols
       * [extract firmware](hardware-hacking/interface-interaction/uart/extract-firmware-using-uart.md) using debug protocols
   * [Bypass Security Mechanisms](hardware-hacking/bypassing-security/)
-    * Introduction to [Voltage Gliching](hardware-hacking/bypassing-security/voltage-glitiching/)
+    * Introduction to [Voltage Glitching](hardware-hacking/bypassing-security/voltage-glitching/)
   * How to [analyze Firmware](hardware-hacking/analyze-firmware.md)
 * [Network Analysis](network-analysis/introduction.md)
   * How to analyze protocols: [Reverse Engineering ](network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering.md)a drone
