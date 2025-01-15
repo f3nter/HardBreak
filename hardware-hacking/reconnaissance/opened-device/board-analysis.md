@@ -17,7 +17,7 @@ What we are looking for:
 * places where we can communicate with the device
 * places where we can intercept communication
 
-These omponents of interest could be:
+These components of interest could be:
 
 {% tabs %}
 {% tab title="Test Pins/Pads" %}
