@@ -75,6 +75,6 @@ Check if certain pins have pull-up resistors to Vcc, which is common for **TMS**
 
 ## Resources
 
-[https://riverloopsecurity.com/blog/2021/05/hw-101-jtag-part2/](https://riverloopsecurity.com/blog/2021/05/hw-101-jtag-part2/)\
-[https://www.xjtag.com/about-jtag/jtag-a-technical-overview/](https://www.xjtag.com/about-jtag/jtag-a-technical-overview/)\
-[https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
+* [Hardware Hacking 101: Identifying and Verifying JTAG on a Device](https://riverloopsecurity.com/blog/2021/05/hw-101-jtag-part2/)
+* [Technical Guide to JTAG](https://www.xjtag.com/about-jtag/jtag-a-technical-overview/)
+* [Hardware Hacking Experiments: Extracting Firmware from Embedded Device](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)

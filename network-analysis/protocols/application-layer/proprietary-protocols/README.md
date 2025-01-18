@@ -23,5 +23,5 @@ General steps to analyze unknown protocols:
 
 ## Resources
 
-[https://sushantkatare.medium.com/network-protocol-analysis-the-art-of-decoding-digital-footprints-17638ed08343](https://sushantkatare.medium.com/network-protocol-analysis-the-art-of-decoding-digital-footprints-17638ed08343)\
-[https://iopscience.iop.org/article/10.1088/1742-6596/1617/1/012071/pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1617/1/012071/pdf)
+* [Network Protocol Analysis: The Art of Decoding Digital Footprints](https://sushantkatare.medium.com/network-protocol-analysis-the-art-of-decoding-digital-footprints-17638ed08343)
+*  Jingliang Xue et al  [Classification and identification of unknown network protocols based on CNN and T-SNE (PDF)](https://iopscience.iop.org/article/10.1088/1742-6596/1617/1/012071/pdf)

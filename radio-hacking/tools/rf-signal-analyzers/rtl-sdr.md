@@ -40,5 +40,5 @@ One common use case for RTL-SDR is spectrum analysis, which helps users visualiz
 
 ## Resources
 
-[https://www.rtl-sdr.com/](https://www.rtl-sdr.com/)\
-[https://github.com/jopohl/urh](https://github.com/jopohl/urh?tab=readme-ov-file)
+* [RTL SDR](https://www.rtl-sdr.com/)
+* [Universal Radio Hacker Git Repository](https://github.com/jopohl/urh?tab=readme-ov-file)

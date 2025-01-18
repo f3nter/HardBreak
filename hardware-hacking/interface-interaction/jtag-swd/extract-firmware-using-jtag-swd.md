@@ -240,5 +240,5 @@ O.K.
 
 ## Resources
 
-[https://sergioprado.blog/2020-02-20-extracting-firmware-from-devices-using-jtag/](https://sergioprado.blog/2020-02-20-extracting-firmware-from-devices-using-jtag/)\
-[https://wrongbaud.github.io/posts/jtag-hdd/](https://wrongbaud.github.io/posts/jtag-hdd/)
+* [Extracting firmware from devices using JTAG](https://sergioprado.blog/2020-02-20-extracting-firmware-from-devices-using-jtag/)
+* [Hardware Debugging for Reverse Engineers Part 2: JTAG, SSDs and Firmware Extraction](https://wrongbaud.github.io/posts/jtag-hdd/)

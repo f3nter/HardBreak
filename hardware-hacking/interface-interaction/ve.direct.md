@@ -121,5 +121,5 @@ Since the VE.Direct protocol does not require authentication, we can also spoof 
 
 ## Resources
 
-[https://www.victronenergy.com/upload/documents/VE.Direct-Protocol-3.33.pdf](https://www.victronenergy.com/upload/documents/VE.Direct-Protocol-3.33.pdf)\
-[https://github.com/karioja/vedirect](https://github.com/karioja/vedirect)
+* [VE.Direct Protocol (PDF)](https://www.victronenergy.com/upload/documents/VE.Direct-Protocol-3.33.pdf)
+* [Python library for decoding the Victron Energy VE.Direct text protocol ](https://github.com/karioja/vedirect)

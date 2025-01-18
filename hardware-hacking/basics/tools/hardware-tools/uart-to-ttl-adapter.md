@@ -42,4 +42,4 @@ If you console looks like this, you probably have the wrong baud rate set:
 
 ## Resources
 
-[https://www.seeedstudio.com/blog/2019/12/11/rs232-vs-ttl-beginner-guide-to-serial-communication/](https://www.seeedstudio.com/blog/2019/12/11/rs232-vs-ttl-beginner-guide-to-serial-communication/)
+* [RS232 vs TTL: Beginner Guide to Serial Communication](https://www.seeedstudio.com/blog/2019/12/11/rs232-vs-ttl-beginner-guide-to-serial-communication/)

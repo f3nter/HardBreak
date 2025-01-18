@@ -132,6 +132,6 @@ To dump a flash chip using the Bus Pirate, you'll typically interface it with th
 
 ## **Resources**
 
-[**https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html**](https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html)\
-[**http://dangerousprototypes.com/docs/Bus\_Pirate\_menu\_options\_guide**](http://dangerousprototypes.com/docs/Bus\_Pirate\_menu\_options\_guide)\
-[ **http://dangerousprototypes.com/docs/Bus\_Pirate\_I/O\_Pin\_Descriptions**](http://dangerousprototypes.com/docs/Bus\_Pirate\_I/O\_Pin\_Descriptions)
+*[Bus Pirate](https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html)
+*[Bus Pirate menu options guide](http://dangerousprototypes.com/docs/Bus\_Pirate\_menu\_options\_guide)
+*[Bus Pirate I/O Pin Descriptions](http://dangerousprototypes.com/docs/Bus\_Pirate\_I/O\_Pin\_Descriptions)

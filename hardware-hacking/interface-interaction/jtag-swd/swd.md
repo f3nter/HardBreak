@@ -78,5 +78,5 @@ Pentesters often use SWD to reverse engineer firmware, modify device behavior, e
 
 ## Resources
 
-[https://redfoxsec.com/blog/unveiling-vulnerabilities-exploring-swd-attack-surface-in-hardware/](https://redfoxsec.com/blog/unveiling-vulnerabilities-exploring-swd-attack-surface-in-hardware/)\
-[https://hackaday.com/2023/01/31/find-swd-points-quickly-no-extra-hardware-needed/](https://hackaday.com/2023/01/31/find-swd-points-quickly-no-extra-hardware-needed/)
+* [Unveiling Vulnerabilities: Exploring SWD Attack Surface in Hardware](https://redfoxsec.com/blog/unveiling-vulnerabilities-exploring-swd-attack-surface-in-hardware/)
+* [Find SWD Points Quickly, No Extra Hardware Needed](https://hackaday.com/2023/01/31/find-swd-points-quickly-no-extra-hardware-needed/)

@@ -99,4 +99,4 @@ Firmwalker provides a categorized output similar to:
 
 ## Resources
 
-[https://github.com/craigz28/firmwalker](https://github.com/craigz28/firmwalker)
+* [Firewalker Git repository](https://github.com/craigz28/firmwalker)

@@ -35,5 +35,5 @@ Always try to desolder the target chip from the actual PCB, as components like c
 
 ## Resources
 
-[https://hackaday.com/2024/06/03/glitching-an-atmega328p-has-never-been-simpler/](https://hackaday.com/2024/06/03/glitching-an-atmega328p-has-never-been-simpler/)\
-[https://www.ledger.com/academy/series/enter-the-donjon/episode-4-power-glitch-attack](https://www.ledger.com/academy/series/enter-the-donjon/episode-4-power-glitch-attack)
+* [Glitching An ATMega328P Has Never Been Simpler](https://hackaday.com/2024/06/03/glitching-an-atmega328p-has-never-been-simpler/)
+* [Episode 4 – Power Glitch Attack](https://www.ledger.com/academy/series/enter-the-donjon/episode-4-power-glitch-attack)

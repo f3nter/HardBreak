@@ -34,5 +34,5 @@ Radio Frequency (RF) analysis involves examining the electromagnetic signals emi
 
 ## Resources
 
-[https://medium.com/radio-hackers/demystifying-sdr-hacking-a-deep-dive-into-wireless-protocols-part-1-db748b9171ca](https://medium.com/radio-hackers/demystifying-sdr-hacking-a-deep-dive-into-wireless-protocols-part-1-db748b9171ca)\
-[https://github.com/jopohl/urh](https://github.com/jopohl/urh?tab=readme-ov-file)
+*[Demystifying SDR Hacking: A Deep Dive into Wireless Protocols Part:1](https://medium.com/radio-hackers/demystifying-sdr-hacking-a-deep-dive-into-wireless-protocols-part-1-db748b9171ca)
+* [Universal Radio Hacker Git Repository](https://github.com/jopohl/urh?tab=readme-ov-file)

@@ -62,4 +62,4 @@ If all keys and sectors could be recovered, we can now use the flipper to emulat
 
 ## Resources
 
-[https://docs.flipper.net/nfc](https://docs.flipper.net/nfc)
+*[NFC - Flipper Zero Documentation](https://docs.flipper.net/nfc)

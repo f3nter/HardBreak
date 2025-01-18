@@ -41,5 +41,5 @@ General advice:
 
 ## Resources
 
-[https://www.makerspaces.com/how-to-solder/](https://www.makerspaces.com/how-to-solder/)
+*[How To Solder: A Beginner’s Guide](https://www.makerspaces.com/how-to-solder/)
 

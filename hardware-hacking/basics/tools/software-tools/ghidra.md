@@ -47,5 +47,5 @@ To install Ghidra, follow these steps:
 
 ## Resources
 
-[https://ghidra-sre.org/](https://ghidra-sre.org/)\
-[https://github.com/NationalSecurityAgency/ghidra/releases](https://github.com/NationalSecurityAgency/ghidra/releases)
+*[Ghidra Website](https://ghidra-sre.org/)
+*[Ghidra Git repository](https://github.com/NationalSecurityAgency/ghidra/releases)

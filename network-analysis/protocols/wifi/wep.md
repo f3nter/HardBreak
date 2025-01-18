@@ -72,5 +72,5 @@ _Replace `10` with the number of deauthentication packets to send._
 
 ## Resources:
 
-[https://www.aircrack-ng.org/index.html](https://www.aircrack-ng.org/index.html)\
-[https://vengeance.medium.com/wi-fi-hacking-series-exploring-wep-attacks-part-2-fbfc52cf9e7a](https://vengeance.medium.com/wi-fi-hacking-series-exploring-wep-attacks-part-2-fbfc52cf9e7a)\
+* [Aircrack-ng](https://www.aircrack-ng.org/index.html)
+* [Wi-Fi Hacking Series- Exploring WEP Attacks (Part-2)](https://vengeance.medium.com/wi-fi-hacking-series-exploring-wep-attacks-part-2-fbfc52cf9e7a)

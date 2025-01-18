@@ -62,4 +62,4 @@ Saleae Logic is a popular line of logic analyzers known for their ease of use, v
 
 ## Resources
 
-[https://support.saleae.com/getting-started/setup](https://support.saleae.com/getting-started/setup)\
+* [Salae Logic Analyzer - Getting Started](https://support.saleae.com/getting-started/setup)
