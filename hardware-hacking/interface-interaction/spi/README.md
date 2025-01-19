@@ -72,5 +72,5 @@ SPI is faster than UART and I2C, making it a popular choice in embedded systems.
 
 ## Resources
 
-[https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html](https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html)\
-[https://riverloopsecurity.com/blog/2020/02/hw-101-spi/](https://riverloopsecurity.com/blog/2020/02/hw-101-spi/)
+*[Bus Pirate](https://www.flashrom.org/supported\_hw/supported\_prog/buspirate.html)
+*[Hardware Hacking 101: Interfacing With SPI/](https://riverloopsecurity.com/blog/2020/02/hw-101-spi/)

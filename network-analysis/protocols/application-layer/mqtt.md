@@ -116,5 +116,6 @@ done
 
 ## **Resources**
 
-[**https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto**](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)[**https://mqtt-pwn.readthedocs.io/en/latest/plugins/brute.html**](https://mqtt-pwn.readthedocs.io/en/latest/plugins/brute.html)\
-[**https://securitycafe.ro/2022/04/08/iot-pentesting-101-how-to-hack-mqtt-the-standard-for-iot-messaging/**](https://securitycafe.ro/2022/04/08/iot-pentesting-101-how-to-hack-mqtt-the-standard-for-iot-messaging/)
+* [1883 - Pentesting MQTT (Mosquitto)](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)
+* [Credentials Brute Force ](https://mqtt-pwn.readthedocs.io/en/latest/plugins/brute.html)
+* [IoT Pentesting 101: How to Hack MQTT – The Standard for IoT Messaging](https://securitycafe.ro/2022/04/08/iot-pentesting-101-how-to-hack-mqtt-the-standard-for-iot-messaging/)

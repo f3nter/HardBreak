@@ -64,4 +64,4 @@ Models
 
 ## Resources
 
-[https://cybergibbons.com/hardware-hacking/sourcing-a-hardware-hacking-toolkit/](https://cybergibbons.com/hardware-hacking/sourcing-a-hardware-hacking-toolkit/)
+* [Sourcing a hardware hacking toolkit](https://cybergibbons.com/hardware-hacking/sourcing-a-hardware-hacking-toolkit/)

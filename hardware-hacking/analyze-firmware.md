@@ -131,7 +131,6 @@ The `strings` command can be helpful to quickly find sensitive data like passwor
 Todo
 
 Resources:
-
-[https://fr3ak-hacks.medium.com/analysing-and-extracting-firmware-using-binwalk-982012281ff6](https://fr3ak-hacks.medium.com/analysing-and-extracting-firmware-using-binwalk-982012281ff6)\
-[https://sergioprado.blog/reverse-engineering-router-firmware-with-binwalk/](https://sergioprado.blog/reverse-engineering-router-firmware-with-binwalk/)\
-[https://github.com/ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)\
+* [Binwalk: Firmware Analysis Tool](https://github.com/ReFirmLabs/binwalk)
+* [Analysing and extracting firmware using Binwalk 3.1.0 in 2025](https://fr3ak-hacks.medium.com/analysing-and-extracting-firmware-using-binwalk-982012281ff6)
+* [Reverse engineering my router's firmware with binwalk](https://sergioprado.blog/reverse-engineering-router-firmware-with-binwalk/)

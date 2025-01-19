@@ -118,7 +118,7 @@ The TAP controller is a state machine controlled by the **TMS signal**, which tr
 
 ## Resources
 
-[https://hackaday.com/2020/04/08/a-hackers-guide-to-jtag/](https://hackaday.com/2020/04/08/a-hackers-guide-to-jtag/)\
-[https://riverloopsecurity.com/blog/2021/05/hw-101-jtag/](https://riverloopsecurity.com/blog/2021/05/hw-101-jtag/)\
-[http://dangerousprototypes.com/docs/Bus\_Blaster\_urJTAG\_guide](http://dangerousprototypes.com/docs/Bus\_Blaster\_urJTAG\_guide)\
-[https://www.xjtag.com/about-jtag/jtag-a-technical-overview/](https://www.xjtag.com/about-jtag/jtag-a-technical-overview/)
+*[A Hacker’s Guide To JTAG](https://hackaday.com/2020/04/08/a-hackers-guide-to-jtag/)
+*[Hardware Hacking 101: Introduction to JTAG](https://riverloopsecurity.com/blog/2021/05/hw-101-jtag/)
+*[Bus Blaster urJTAG guide](http://dangerousprototypes.com/docs/Bus\_Blaster\_urJTAG\_guide)
+*[Technical Guide to JTAG](https://www.xjtag.com/about-jtag/jtag-a-technical-overview/)

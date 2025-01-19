@@ -54,5 +54,5 @@ Testing a hardware device over Ethernet helps assess network vulnerabilities, in
 
 ## Resources
 
-[https://nmap.org/](https://nmap.org/)\
-[https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
+* [Nmap webiste](https://nmap.org/)
+* [Wireshark website](https://www.wireshark.org/download.html)

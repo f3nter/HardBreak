@@ -144,5 +144,5 @@ Saved to backup.bin
 
 ## Resources
 
-[https://www.flashrom.org/](https://www.flashrom.org/)\
-[https://github.com/flashrom/flashrom](https://github.com/flashrom/flashrom)
+* [Flashrom website](https://www.flashrom.org/)
+* [Flashrom Git repository](https://github.com/flashrom/flashrom)

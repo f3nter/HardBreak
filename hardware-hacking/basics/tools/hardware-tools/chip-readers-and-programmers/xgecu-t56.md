@@ -49,4 +49,4 @@ To dump a flash chip using the Xgecu T56 programmer, you typically use the provi
 
 ## Resources
 
-[http://xgecu.com/MiniPro/T56\_TL866II%20USER%20GUIDE.pdf](http://xgecu.com/MiniPro/T56\_TL866II%20USER%20GUIDE.pdf)
+* [http://xgecu.com/MiniPro/T56\_TL866II%20USER%20GUIDE.pdf](http://xgecu.com/MiniPro/T56\_TL866II%20USER%20GUIDE.pdf)

@@ -6,7 +6,7 @@ Thank you for your interest in contributing to our GitBook project! Your efforts
 
 1. Fork the repository ([https://github.com/f3nter/HardBreak/fork](https://github.com/f3nter/HardBreak/fork)) to your account
 2. Make the changes you want in your forked HardBreak repository, respecting the guidelines below
-3.  If your changes are ready, make a Pull Request ([https://github.com/f3nter/HardBreak/compare](https://github.com/f3nter/HardBreak/compare))\
+3. If your changes are ready, make a Pull Request ([https://github.com/f3nter/HardBreak/compare](https://github.com/f3nter/HardBreak/compare))\
 
 
     <figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Select the original f3nter HardBreak main branch on the left and your updated branch on the right.</p></figcaption></figure>

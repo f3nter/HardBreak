@@ -158,5 +158,5 @@ To end the attack, stop sending spoofed ARP packets by terminating the replay or
 
 ## Resources
 
-[https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi#deauthentication-packets](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi#deauthentication-packets)\
-[https://en.wikipedia.org/wiki/Wi-Fi\_deauthentication\_attack](https://en.wikipedia.org/wiki/Wi-Fi\_deauthentication\_attack)
+* [Pentesting Wifi - Deauthentication Packets](https://book.hacktricks.wiki/en/generic-methodologies-and-resources/pentesting-wifi/index.html)
+* [Wi-Fi deauthentication attack](https://en.wikipedia.org/wiki/Wi-Fi\_deauthentication\_attack)

@@ -113,4 +113,4 @@ To dump a flash chip using J-Link, you can use the J-Link Command Line Interface
 
 #### Resources
 
-[https://wiki.segger.com/J-Link\_Commander](https://wiki.segger.com/J-Link\_Commander)
+* [J-Link Commander](https://kb.segger.com/J-Link_Commander)

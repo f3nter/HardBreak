@@ -110,5 +110,5 @@ The dumped firmware can then be [analyzed](../../../analyze-firmware.md).
 
 ## Resources
 
-[https://riverloopsecurity.com/blog/2021/07/hw-101-jtag-part3/](https://riverloopsecurity.com/blog/2021/07/hw-101-jtag-part3/)\
-[https://openocd.org/doc/pdf/openocd.pdf](https://openocd.org/doc/pdf/openocd.pdf)
+* [Hardware Hacking 101: Communicating with JTAG via OpenOCD](https://riverloopsecurity.com/blog/2021/07/hw-101-jtag-part3/)
+* [Open On-Chip Debugger: OpenOCD User’s Guide (PDF)](https://openocd.org/doc/pdf/openocd.pdf)

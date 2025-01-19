@@ -90,6 +90,5 @@ This case study shows why it is relevant to reverse network protocols when analy
 
 ## Resources
 
-Bachelor Thesis, Jonas Rosenberger (me)
-
-[https://www.parrot.com/en/drones/anafi](https://www.parrot.com/en/drones/anafi)
+* Bachelor Thesis, Jonas Rosenberger (me)
+* [Parrot ANAFI](https://www.parrot.com/en/drones/anafi)

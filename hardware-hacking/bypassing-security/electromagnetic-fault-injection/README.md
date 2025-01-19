@@ -23,10 +23,10 @@ In contrast to other fault injection techniques, EMFI allows for glitching witho
 
 ## Resources
 
-[https://circuitcellar.com/research-design-hub/electromagnetic-fault-injection/](https://circuitcellar.com/research-design-hub/electromagnetic-fault-injection/)\
-[https://www.ledger.com/blog/compact-em](https://www.ledger.com/blog/compact-em)\
-[https://hal.science/lirmm-01430913/](https://hal.science/lirmm-01430913/)
+*[Electromagnetic Fault Injection](https://circuitcellar.com/research-design-hub/electromagnetic-fault-injection/)
+*[A Compact Electromagnetic Fault Injection Setup](https://www.ledger.com/blog/compact-em)
+*[Electromagnetic fault injection: the curse of flip-flops](https://hal.science/lirmm-01430913/)
 
 ## Page Contributors
 
-[https://github.com/Whit3rose](https://github.com/Whit3rose)
+* [https://github.com/Whit3rose](https://github.com/Whit3rose)

@@ -3,4 +3,5 @@ Bash script to automate setup of Linux router useful for IoT device traffic anal
 
 Tool made by [Matt Brown](https://github.com/nmatt0)
 
-Repository: https://github.com/nmatt0/mitmrouter
+# Resources
+* [MITM Router Git Repository](https://github.com/nmatt0/mitmrouter)

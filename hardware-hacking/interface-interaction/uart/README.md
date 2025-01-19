@@ -122,5 +122,5 @@ UART can be configured in many different ways. Next, we want to introduce some k
 
 ## Resources
 
-[https://wiki.emacinc.com/wiki/Getting\_Started\_With\_Minicom](https://wiki.emacinc.com/wiki/Getting\_Started\_With\_Minicom)\
-[https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)
+* [Getting Started With Minicom](https://wiki.emacinc.com/wiki/Getting\_Started\_With\_Minicom)
+* [Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)

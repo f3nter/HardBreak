@@ -75,4 +75,4 @@ Here’s a quick breakdown of the most common commands:
 
 ## Resources
 
-[https://github.com/ReFirmLabs/binwalk/wiki](https://github.com/ReFirmLabs/binwalk/wiki)
+* [Binwalk Wiki](https://github.com/ReFirmLabs/binwalk/wiki)

@@ -19,4 +19,4 @@ The Flipper Zero is a versatile, portable, open-source multi-tool designed for p
 
 ## Resources
 
-[https://flipperzero.one/](https://flipperzero.one/)
+*[Flipper Zero](https://flipperzero.one/)

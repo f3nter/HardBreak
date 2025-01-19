@@ -48,5 +48,5 @@ According to Andrea Baccega if the Brown-Detection (which resets the chip, if th
 
 ## Resources
 
-[https://github.com/vekexasia/lpc\_voltage\_glitch\_test](https://github.com/vekexasia/lpc_voltage_glitch_test)
+*[Voltage glitcher test for LPC1768](https://github.com/vekexasia/lpc_voltage_glitch_test)
 

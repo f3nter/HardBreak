@@ -94,8 +94,8 @@ If you could identify all the needed pins, you may now [Connect to UART](connect
 
 ## Resources
 
-[https://www.secureideas.com/blog/hardware-hacking-finding-uart-pinouts-on-pcbs](https://www.secureideas.com/blog/hardware-hacking-finding-uart-pinouts-on-pcbs)
+*[Hardware Hacking: Finding UART Pinouts on PCBs](https://www.secureideas.com/blog/hardware-hacking-finding-uart-pinouts-on-pcbs)
 
-[https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)\
-[https://redfoxsec.com/blog/decoding-the-mystery-identifying-unlabelled-uart-pins/](https://redfoxsec.com/blog/decoding-the-mystery-identifying-unlabelled-uart-pins/)
+*[Hardware Hacking Experiments: Extracting Firmware from Embedded Device](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
+*[Decoding the Mystery: Identifying Unlabelled UART Pins](https://redfoxsec.com/blog/decoding-the-mystery-identifying-unlabelled-uart-pins/)
 

@@ -122,5 +122,5 @@ Ensure you verify the correct device paths to avoid overwriting important data. 
 
 ## Resources
 
-[https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)\
-[https://slava-moskvin.medium.com/extracting-firmware-every-method-explained-e94aa094d0dd](https://slava-moskvin.medium.com/extracting-firmware-every-method-explained-e94aa094d0dd)
+*[Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)
+*[Extracting Firmware: Every Method Explained](https://slava-moskvin.medium.com/extracting-firmware-every-method-explained-e94aa094d0dd)
