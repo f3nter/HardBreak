@@ -38,6 +38,7 @@
       * [Mitmrouter](hardware-hacking/basics/tools/software-tools/mitmrouter.md)
   * [Common Hardware Components](hardware-hacking/basics/common-hardware-components.md)
   * [Firmware Extraction Methods](hardware-hacking/basics/firmware-extraction-methods.md)
+  * [Ethics](hardware-hacking/basics/ethics.md)
 * [Reconnaissance](hardware-hacking/reconnaissance/README.md)
   * [Closed device](hardware-hacking/reconnaissance/closed-device/README.md)
     * [OSINT (search the web)](hardware-hacking/reconnaissance/closed-device/osint-search-the-web.md)
