@@ -7,7 +7,7 @@
 
 ## Connect to UART
 
-You need to find the GND (ground), TX (transmit) and RX(receive) pins to communicate with UART.&#x20;
+You need to find the GND (ground), TX (transmit) and RX(receive) pins to send and receive data with UART (RX pin is not required to just read data).
 
 When you connect the UART-USB adapter with the UART interface on the board, you have to connect RX and TX together like this:
 
@@ -27,7 +27,7 @@ If your device has holes in the pcb for the UART connection, you can attempt to 
 {% endtab %}
 
 {% tab title="Clamps" %}
-If you own clamps or grabbers, you can use them to hook them up to the UART connector.  These clamps have small hooks which you can hookup to the connector. This is not very usable if you only have flat connector pads.
+If you own clamps or grabbers, you can use them to hook them up to the UART connector. These clamps have small hooks which you can hookup to the connector. This is not very usable if you only have flat connector pads.
 
 <figure><img src="../../../.gitbook/assets/IMG_8349.JPG" alt="" width="375"><figcaption><p>Clamp with Hook<br></p></figcaption></figure>
 
@@ -79,10 +79,10 @@ Change the 115200 with the baud rate of your device (how to identify: see below)
 
 ### **Identifying the correct baud rate**
 
-* Quick win: Try to guess the baud rate, the most common ones are:&#x20;
-  * &#x20;9600, 38400, 19200, 57600, 115200 (which is probably the most common of all)
-* [Baudrate.py](https://github.com/sickcodes/python3-baudrate) is a script, which tests automatically for different baud rates&#x20;
-*   You can also try to manually identify the correct baud rate using a [logic analyzer](../../basics/tools/hardware-tools/logic-analyzer/)&#x20;
+* Quick win: Try to guess the baud rate, the most common ones are:
+  * 9600, 38400, 19200, 57600, 115200 (which is probably the most common of all)
+* [Baudrate.py](https://github.com/sickcodes/python3-baudrate) is a script, which tests automatically for different baud rates
+*   You can also try to manually identify the correct baud rate using a [logic analyzer](../../basics/tools/hardware-tools/logic-analyzer/)
 
     * When hovering your capture with the mouse in the Saleae Logic Software you can see the the width is equal to 111.111kHZ which is very close to 115200, so we should choose this baud rate
 
