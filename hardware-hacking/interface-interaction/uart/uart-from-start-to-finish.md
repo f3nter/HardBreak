@@ -11,9 +11,9 @@ To interact with a UART interface, you would need:
 
 After opening the device follow the following steps to identify UART.
 
-## **Get an overview**&#x20;
+## **Get an overview**
 
-1. Checkout which chips are used&#x20;
+1. Checkout which chips are used
    1. Google the datasheet of each chip you find (model should be printed on top of the chip)
    2.  It can be useful to take a picture of the PCB and label everything you can identify
 
@@ -54,12 +54,12 @@ If you hear a BEEP, then there is a direct link between the pin and the pad you 
 {% endtab %}
 
 {% tab title="Voltage test" %}
-Do this when booting up the device, as the device will print out a lot of stuff over UART and we can therefore identify RX and TX better.&#x20;
+Try this technique when booting up the device, as the device will print out a lot of stuff over UART and we can therefore identify RX and TX better.
 
 \
 If you can't use the microchips pins as reference (for example if it's a BGA chip or if there is no datasheet) you can check the voltage of the pins:
 
-* High constant (around 3.3V or 5V) indicates VCC
+* High constant (around 3.3V or 5V are the most common) indicates VCC
 * If the voltage fluctuates this may indicate data transmission and therefore the TX pin of the chip (reminder: has to be connected to RX on your UART adapter NOT TX)
 * Zero voltage indicates GND
 * Depending on the UART configuration the RX pin is either idle high or idle low, so it is not so easy to differentiale it from GND or VCC
@@ -75,7 +75,7 @@ Here a summary:
 {% endtab %}
 
 {% tab title="Restance check" %}
-Another method is to check the resistance of each test pad against GND.&#x20;
+Another method is to check the resistance of each test pad against GND.
 
 Here would be the expected values, but it also is depending on the configuration:
 
@@ -94,8 +94,6 @@ If you could identify all the needed pins, you may now [Connect to UART](connect
 
 ## Resources
 
-*[Hardware Hacking: Finding UART Pinouts on PCBs](https://www.secureideas.com/blog/hardware-hacking-finding-uart-pinouts-on-pcbs)
+\*[Hardware Hacking: Finding UART Pinouts on PCBs](https://www.secureideas.com/blog/hardware-hacking-finding-uart-pinouts-on-pcbs)
 
-*[Hardware Hacking Experiments: Extracting Firmware from Embedded Device](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
-*[Decoding the Mystery: Identifying Unlabelled UART Pins](https://redfoxsec.com/blog/decoding-the-mystery-identifying-unlabelled-uart-pins/)
-
+\*[Hardware Hacking Experiments: Extracting Firmware from Embedded Device](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf) \*[Decoding the Mystery: Identifying Unlabelled UART Pins](https://redfoxsec.com/blog/decoding-the-mystery-identifying-unlabelled-uart-pins/)
