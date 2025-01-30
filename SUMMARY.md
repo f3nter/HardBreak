@@ -20,7 +20,7 @@
       * [Logic Analyzer](hardware-hacking/basics/tools/hardware-tools/logic-analyzer/README.md)
         * [Saleae Logic Analyzer](hardware-hacking/basics/tools/hardware-tools/logic-analyzer/saleae-logic-analyzer.md)
       * [Open-Source Tools](hardware-hacking/basics/tools/hardware-tools/open-source-tools/README.md)
-        * [Bus Pirate](hardware-hacking/basics/tools/hardware-tools/open-source-tools/bus-pirate.md)
+        * [Bus Pirate v3.6](hardware-hacking/basics/tools/hardware-tools/open-source-tools/bus-pirate.md)
         * [GoodFET](hardware-hacking/basics/tools/hardware-tools/open-source-tools/goodfet.md)
       * [Multimeters & Oscilloscopes](hardware-hacking/basics/tools/hardware-tools/multimeters-and-oscilloscopes.md)
       * [JTAG and SWD Debuggers](hardware-hacking/basics/tools/hardware-tools/jtag-and-swd-debuggers/README.md)
