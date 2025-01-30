@@ -35,3 +35,8 @@ You can use[ Tera Term](https://en.wikipedia.org/wiki/Tera_Term) to open a Termi
 
 ### TODO
 
+
+
+## Resources
+
+[Buspirate - Hompage](https://buspirate.com/)
