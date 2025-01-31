@@ -25,8 +25,8 @@ Chip readers and programmers  allow users to read, write, and manipulate the dat
 Models:
 
 * Entry-Level
-  * CH341A USB Programmer(<$15) : very cheap one, flashrom compatible,&#x20;
+  * CH341A USB Programmer(<$15) : very cheap one, flashrom compatible,
 * Mid-Range
-  * XGecu T56 ($200): Frequently used by myself, very reliable, supports a lot of devices, NAND, SPI, eMMC etc.
+  * XGecu T56 ($200) or T48 ($80): Frequently used by myself, very reliable, supports a lot of devices, NAND, SPI, eMMC etc.
 * High-End
   * Xeltek Superpro (>$550): very precise, but not really needed if you are not a professional
